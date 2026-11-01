@@ -62,8 +62,8 @@ src/
 ### Setup
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/USERNAME/Expense-Tracker-API.git
+cd Expense-Tracker-API
 npm install
 cp .env.example .env
 ```
